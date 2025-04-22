@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521827,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521828,
+            "tagId": 27456,
+            "name": "name",
+            "value": "glendonite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521829,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 9,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521830,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521831,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "pseudomorphosis of calcite after an ikaite crystal.\n\nlight brown coarsely formed fusiform crystal of rhombic cross section.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        }
+    ],
+    "size": {
+        "height": 447,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232746,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.484Z",
+            "updatedAt": "2023-12-16T11:24:44.484Z",
+            "tags": [
+                {
+                    "id": 77143242,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.118,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.483Z",
+                    "updatedAt": "2023-12-16T11:24:44.483Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        120
+                    ],
+                    [
+                        1010,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

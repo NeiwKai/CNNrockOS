@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521824,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521825,
+            "tagId": 27456,
+            "name": "name",
+            "value": "cassiterite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521826,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "cassiterite by orthoclase",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        }
+    ],
+    "size": {
+        "height": 658,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232745,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.484Z",
+            "updatedAt": "2023-12-16T11:24:44.484Z",
+            "tags": [
+                {
+                    "id": 77143241,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.331,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.483Z",
+                    "updatedAt": "2023-12-16T11:24:44.483Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        121
+                    ],
+                    [
+                        813,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

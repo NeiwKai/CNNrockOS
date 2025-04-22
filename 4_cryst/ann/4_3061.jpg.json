@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521864,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521865,
+            "tagId": 27456,
+            "name": "name",
+            "value": "cancrinit artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232765,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.279Z",
+            "updatedAt": "2023-12-16T11:24:45.279Z",
+            "tags": [
+                {
+                    "id": 77143261,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.247,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.279Z",
+                    "updatedAt": "2023-12-16T11:24:45.279Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        399
+                    ],
+                    [
+                        655,
+                        702
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

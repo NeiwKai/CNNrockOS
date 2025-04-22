@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522038,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.777Z",
+            "updatedAt": "2023-12-16T11:24:46.777Z"
+        },
+        {
+            "id": 13522039,
+            "tagId": 27456,
+            "name": "name",
+            "value": "synthetic sphalerite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.777Z",
+            "updatedAt": "2023-12-16T11:24:46.777Z"
+        },
+        {
+            "id": 13522040,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "three green crystals of synthetic sphalerite (with an admixture of co) less than 1 mm in size.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.777Z",
+            "updatedAt": "2023-12-16T11:24:46.777Z"
+        }
+    ],
+    "size": {
+        "height": 575,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232865,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.778Z",
+            "updatedAt": "2023-12-16T11:24:46.778Z",
+            "tags": [
+                {
+                    "id": 77143361,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.164,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.778Z",
+                    "updatedAt": "2023-12-16T11:24:46.778Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        749,
+                        215
+                    ],
+                    [
+                        909,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

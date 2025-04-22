@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521685,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.955Z",
+            "updatedAt": "2023-12-16T11:24:42.955Z"
+        },
+        {
+            "id": 13521686,
+            "tagId": 27456,
+            "name": "name",
+            "value": "calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.955Z",
+            "updatedAt": "2023-12-16T11:24:42.955Z"
+        },
+        {
+            "id": 13521687,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "druse of white translucent 022-1 twinned calcite crystals up to 5x4 cm in size.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.955Z",
+            "updatedAt": "2023-12-16T11:24:42.955Z"
+        }
+    ],
+    "size": {
+        "height": 883,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232671,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.956Z",
+            "updatedAt": "2023-12-16T11:24:42.956Z",
+            "tags": [
+                {
+                    "id": 77143167,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.111,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.955Z",
+                    "updatedAt": "2023-12-16T11:24:42.955Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        98
+                    ],
+                    [
+                        967,
+                        846
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

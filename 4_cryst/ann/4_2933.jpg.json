@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521821,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521822,
+            "tagId": 27456,
+            "name": "name",
+            "value": "mica",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        },
+        {
+            "id": 13521823,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "artificial product",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232744,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.484Z",
+            "updatedAt": "2023-12-16T11:24:44.484Z",
+            "tags": [
+                {
+                    "id": 77143240,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.517,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.483Z",
+                    "updatedAt": "2023-12-16T11:24:44.483Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        152
+                    ],
+                    [
+                        903,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

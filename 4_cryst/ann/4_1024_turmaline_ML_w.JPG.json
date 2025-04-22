@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522098,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.787Z",
+            "updatedAt": "2023-12-16T11:24:46.787Z"
+        },
+        {
+            "id": 13522099,
+            "tagId": 27456,
+            "name": "name",
+            "value": "tourmaline",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.787Z",
+            "updatedAt": "2023-12-16T11:24:46.787Z"
+        },
+        {
+            "id": 13522100,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "tourmaline red (rubellite). 10-10, 11-20, 11-21, 22-41",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.787Z",
+            "updatedAt": "2023-12-16T11:24:46.787Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 98232895,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.788Z",
+            "updatedAt": "2023-12-16T11:24:46.788Z",
+            "tags": [
+                {
+                    "id": 77143391,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.148,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.788Z",
+                    "updatedAt": "2023-12-16T11:24:46.788Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        385
+                    ],
+                    [
+                        511,
+                        828
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

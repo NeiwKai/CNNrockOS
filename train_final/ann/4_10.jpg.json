@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521892,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        },
+        {
+            "id": 13521893,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        },
+        {
+            "id": 13521894,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "rutile inclusions in quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 981
+    },
+    "objects": [
+        {
+            "id": 98232778,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.283Z",
+            "updatedAt": "2023-12-16T11:24:45.283Z",
+            "tags": [
+                {
+                    "id": 77143274,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.337,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.283Z",
+                    "updatedAt": "2023-12-16T11:24:45.283Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        21
+                    ],
+                    [
+                        928,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

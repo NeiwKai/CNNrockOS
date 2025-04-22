@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521551,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        },
+        {
+            "id": 13521552,
+            "tagId": 27456,
+            "name": "name",
+            "value": "pyrrhotite artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232572,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z",
+            "tags": [
+                {
+                    "id": 77143068,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.149,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.135Z",
+                    "updatedAt": "2023-12-16T11:24:42.135Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        473
+                    ],
+                    [
+                        690,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

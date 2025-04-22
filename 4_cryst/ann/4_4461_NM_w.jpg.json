@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521768,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.684Z",
+            "updatedAt": "2023-12-16T11:24:43.684Z"
+        },
+        {
+            "id": 13521769,
+            "tagId": 27456,
+            "name": "name",
+            "value": "topaz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.684Z",
+            "updatedAt": "2023-12-16T11:24:43.684Z"
+        },
+        {
+            "id": 13521770,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "wine-colored elongated prismatic {110} crystal with rectangular dissolution or growth figures on the prism faces and vicinal shapes on both heads.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.684Z",
+            "updatedAt": "2023-12-16T11:24:43.684Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 996
+    },
+    "objects": [
+        {
+            "id": 98232717,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.685Z",
+            "updatedAt": "2023-12-16T11:24:43.685Z",
+            "tags": [
+                {
+                    "id": 77143213,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.286,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.685Z",
+                    "updatedAt": "2023-12-16T11:24:43.685Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        0
+                    ],
+                    [
+                        722,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

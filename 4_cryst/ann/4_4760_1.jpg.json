@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521729,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.674Z",
+            "updatedAt": "2023-12-16T11:24:43.674Z"
+        },
+        {
+            "id": 13521730,
+            "tagId": 27456,
+            "name": "name",
+            "value": "orthoclase",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.674Z",
+            "updatedAt": "2023-12-16T11:24:43.674Z"
+        },
+        {
+            "id": 13521731,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "large cream-colored crystal with smoky quartz and albite at the base. h\ncut with {110} prism and (100), (-100), (010) pinacoids. sample size h\n20x17x18cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.674Z",
+            "updatedAt": "2023-12-16T11:24:43.674Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 824
+    },
+    "objects": [
+        {
+            "id": 98232696,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.675Z",
+            "updatedAt": "2023-12-16T11:24:43.675Z",
+            "tags": [
+                {
+                    "id": 77143192,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.337,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.675Z",
+                    "updatedAt": "2023-12-16T11:24:43.675Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        39
+                    ],
+                    [
+                        773,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

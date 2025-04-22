@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521617,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z"
+        },
+        {
+            "id": 13521618,
+            "tagId": 27456,
+            "name": "name",
+            "value": "gypsum",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z"
+        },
+        {
+            "id": 13521619,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "joint of 2 transparent colorless crystals of prismatic habit, in one h\nof which sulfur inclusions. sample size 9x7x6 cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z"
+        }
+    ],
+    "size": {
+        "height": 832,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232618,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z",
+            "tags": [
+                {
+                    "id": 77143114,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.301,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.151Z",
+                    "updatedAt": "2023-12-16T11:24:42.151Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        50
+                    ],
+                    [
+                        976,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

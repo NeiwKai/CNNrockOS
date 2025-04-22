@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521860,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521861,
+            "tagId": 27456,
+            "name": "name",
+            "value": "amethyst synthetic",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521862,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 8,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521863,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "druse of columnar crystals of synthetic amethyst up to 4 cm in size, grown by hydrothermal method.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 911
+    },
+    "objects": [
+        {
+            "id": 98232764,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.279Z",
+            "updatedAt": "2023-12-16T11:24:45.279Z",
+            "tags": [
+                {
+                    "id": 77143260,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.122,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.279Z",
+                    "updatedAt": "2023-12-16T11:24:45.279Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        68
+                    ],
+                    [
+                        865,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

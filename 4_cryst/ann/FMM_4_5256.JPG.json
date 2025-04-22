@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522151,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.245Z",
+            "updatedAt": "2023-12-16T11:24:47.245Z"
+        },
+        {
+            "id": 13522152,
+            "tagId": 27456,
+            "name": "name",
+            "value": "danburite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.245Z",
+            "updatedAt": "2023-12-16T11:24:47.245Z"
+        },
+        {
+            "id": 13522153,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "prismatic colorless danburite crystal 10 x 6 x 5 cm in size, faceted by habit prisms {110} and {011} with small dipyramid faces.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.245Z",
+            "updatedAt": "2023-12-16T11:24:47.245Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232925,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.246Z",
+            "updatedAt": "2023-12-16T11:24:47.246Z",
+            "tags": [
+                {
+                    "id": 77143421,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.263,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:47.246Z",
+                    "updatedAt": "2023-12-16T11:24:47.246Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        76
+                    ],
+                    [
+                        655,
+                        845
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

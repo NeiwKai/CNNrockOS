@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521580,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.139Z",
+            "updatedAt": "2023-12-16T11:24:42.139Z"
+        },
+        {
+            "id": 13521581,
+            "tagId": 27456,
+            "name": "name",
+            "value": "clinohypersten artificially",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.139Z",
+            "updatedAt": "2023-12-16T11:24:42.139Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 895
+    },
+    "objects": [
+        {
+            "id": 98232588,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.140Z",
+            "updatedAt": "2023-12-16T11:24:42.140Z",
+            "tags": [
+                {
+                    "id": 77143084,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.292,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.140Z",
+                    "updatedAt": "2023-12-16T11:24:42.140Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        94
+                    ],
+                    [
+                        665,
+                        929
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232587,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.139Z",
+            "updatedAt": "2023-12-16T11:24:42.139Z",
+            "tags": [
+                {
+                    "id": 77143083,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.15,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.139Z",
+                    "updatedAt": "2023-12-16T11:24:42.139Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        97
+                    ],
+                    [
+                        673,
+                        929
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

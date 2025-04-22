@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521784,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.472Z",
+            "updatedAt": "2023-12-16T11:24:44.472Z"
+        },
+        {
+            "id": 13521785,
+            "tagId": 27456,
+            "name": "name",
+            "value": "tourmaline",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.472Z",
+            "updatedAt": "2023-12-16T11:24:44.472Z"
+        },
+        {
+            "id": 13521786,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "10-10, 11-20, 0001, 11-21",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.472Z",
+            "updatedAt": "2023-12-16T11:24:44.472Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 98232727,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.475Z",
+            "updatedAt": "2023-12-16T11:24:44.475Z",
+            "tags": [
+                {
+                    "id": 77143223,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.178,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.475Z",
+                    "updatedAt": "2023-12-16T11:24:44.475Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        321
+                    ],
+                    [
+                        539,
+                        871
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232726,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.473Z",
+            "updatedAt": "2023-12-16T11:24:44.473Z",
+            "tags": [
+                {
+                    "id": 77143222,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.147,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.473Z",
+                    "updatedAt": "2023-12-16T11:24:44.473Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        758
+                    ],
+                    [
+                        498,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

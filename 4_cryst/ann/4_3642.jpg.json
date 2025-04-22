@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521555,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        },
+        {
+            "id": 13521556,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 965
+    },
+    "objects": [
+        {
+            "id": 98232574,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z",
+            "tags": [
+                {
+                    "id": 77143070,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.203,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.135Z",
+                    "updatedAt": "2023-12-16T11:24:42.135Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        48
+                    ],
+                    [
+                        746,
+                        752
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

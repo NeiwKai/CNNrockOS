@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522016,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z"
+        },
+        {
+            "id": 13522017,
+            "tagId": 27456,
+            "name": "name",
+            "value": "eudialyte",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z"
+        },
+        {
+            "id": 13522018,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a brown-red strongly fractured eudialyte crystal 1.5x2 cm in size with numerous inclusions of acicular aegirine in black splintery aegirine. simple shapes - pinacoid, rhombohedron.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z"
+        }
+    ],
+    "size": {
+        "height": 1023,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232851,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.074Z",
+            "updatedAt": "2023-12-16T11:24:46.074Z",
+            "tags": [
+                {
+                    "id": 77143347,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.119,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.074Z",
+                    "updatedAt": "2023-12-16T11:24:46.074Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        311
+                    ],
+                    [
+                        1019,
+                        908
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232850,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z",
+            "tags": [
+                {
+                    "id": 77143346,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.138,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.072Z",
+                    "updatedAt": "2023-12-16T11:24:46.072Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        312
+                    ],
+                    [
+                        1019,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

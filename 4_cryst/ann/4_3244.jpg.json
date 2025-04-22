@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521810,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        },
+        {
+            "id": 13521811,
+            "tagId": 27456,
+            "name": "name",
+            "value": "fluorite artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        },
+        {
+            "id": 13521812,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "sod. u +3 0.1% atm",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232740,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.481Z",
+            "updatedAt": "2023-12-16T11:24:44.481Z",
+            "tags": [
+                {
+                    "id": 77143236,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.153,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.481Z",
+                    "updatedAt": "2023-12-16T11:24:44.481Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        320
+                    ],
+                    [
+                        676,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

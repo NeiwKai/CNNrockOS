@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522118,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        },
+        {
+            "id": 13522119,
+            "tagId": 27456,
+            "name": "name",
+            "value": "pyrite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        },
+        {
+            "id": 13522120,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a distorted crystal of pyrite with a cubic habit measuring ~ 2 x 2 x 2 cm along the faces.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232908,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.793Z",
+            "updatedAt": "2023-12-16T11:24:46.793Z",
+            "tags": [
+                {
+                    "id": 77143404,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.381,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.793Z",
+                    "updatedAt": "2023-12-16T11:24:46.793Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        184
+                    ],
+                    [
+                        583,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

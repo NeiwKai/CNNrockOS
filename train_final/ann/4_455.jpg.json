@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521658,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.949Z",
+            "updatedAt": "2023-12-16T11:24:42.949Z"
+        },
+        {
+            "id": 13521659,
+            "tagId": 27456,
+            "name": "name",
+            "value": "copper (artificial product)",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.949Z",
+            "updatedAt": "2023-12-16T11:24:42.949Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232652,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.950Z",
+            "updatedAt": "2023-12-16T11:24:42.950Z",
+            "tags": [
+                {
+                    "id": 77143148,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.317,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.950Z",
+                    "updatedAt": "2023-12-16T11:24:42.950Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        318
+                    ],
+                    [
+                        813,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

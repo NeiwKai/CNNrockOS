@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521915,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521916,
+            "tagId": 27456,
+            "name": "name",
+            "value": "mn-calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521917,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "isometric prismatic-plano-rhombohedral translucent colorless crystal with strong pink luminescence in long and short wavelengths.\n\n4.5x2.5x2 cm",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        }
+    ],
+    "size": {
+        "height": 1007,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232792,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143288,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.264,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.289Z",
+                    "updatedAt": "2023-12-16T11:24:45.289Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        206
+                    ],
+                    [
+                        594,
+                        688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232791,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143287,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.109,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.288Z",
+                    "updatedAt": "2023-12-16T11:24:45.288Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        212
+                    ],
+                    [
+                        614,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522113,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z"
+        },
+        {
+            "id": 13522114,
+            "tagId": 27456,
+            "name": "name",
+            "value": "chalcopyrite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232905,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.793Z",
+            "updatedAt": "2023-12-16T11:24:46.793Z",
+            "tags": [
+                {
+                    "id": 77143401,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.118,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.792Z",
+                    "updatedAt": "2023-12-16T11:24:46.792Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        84
+                    ],
+                    [
+                        615,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232904,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.790Z",
+            "updatedAt": "2023-12-16T11:24:46.790Z",
+            "tags": [
+                {
+                    "id": 77143400,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.156,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.790Z",
+                    "updatedAt": "2023-12-16T11:24:46.790Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        84
+                    ],
+                    [
+                        693,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521805,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        },
+        {
+            "id": 13521806,
+            "tagId": 27456,
+            "name": "name",
+            "value": "cancrinit artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232738,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z",
+            "tags": [
+                {
+                    "id": 77143234,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.403,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.480Z",
+                    "updatedAt": "2023-12-16T11:24:44.480Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        422
+                    ],
+                    [
+                        574,
+                        649
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

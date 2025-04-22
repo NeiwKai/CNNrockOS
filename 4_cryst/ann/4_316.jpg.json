@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521569,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        },
+        {
+            "id": 13521570,
+            "tagId": 27456,
+            "name": "name",
+            "value": "copper",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        },
+        {
+            "id": 13521571,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "crystallization phenomena",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z"
+        }
+    ],
+    "size": {
+        "height": 440,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232583,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.139Z",
+            "updatedAt": "2023-12-16T11:24:42.139Z",
+            "tags": [
+                {
+                    "id": 77143079,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.137,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.138Z",
+                    "updatedAt": "2023-12-16T11:24:42.138Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        190
+                    ],
+                    [
+                        857,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232582,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.138Z",
+            "updatedAt": "2023-12-16T11:24:42.138Z",
+            "tags": [
+                {
+                    "id": 77143078,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.101,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.138Z",
+                    "updatedAt": "2023-12-16T11:24:42.138Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        312
+                    ],
+                    [
+                        377,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232581,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z",
+            "tags": [
+                {
+                    "id": 77143077,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.118,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.137Z",
+                    "updatedAt": "2023-12-16T11:24:42.137Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        281
+                    ],
+                    [
+                        519,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232580,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.135Z",
+            "updatedAt": "2023-12-16T11:24:42.135Z",
+            "tags": [
+                {
+                    "id": 77143076,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.105,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.135Z",
+                    "updatedAt": "2023-12-16T11:24:42.135Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        293
+                    ],
+                    [
+                        656,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

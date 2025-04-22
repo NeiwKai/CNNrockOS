@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521713,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        },
+        {
+            "id": 13521714,
+            "tagId": 27456,
+            "name": "name",
+            "value": "sulfur",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        },
+        {
+            "id": 13521715,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "large bright yellow parallel intergrowth of crystals with small pits of etching.\n\n10x8x7 cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        }
+    ],
+    "size": {
+        "height": 855,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232688,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.670Z",
+            "updatedAt": "2023-12-16T11:24:43.670Z",
+            "tags": [
+                {
+                    "id": 77143184,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.144,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.670Z",
+                    "updatedAt": "2023-12-16T11:24:43.670Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        75
+                    ],
+                    [
+                        923,
+                        748
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

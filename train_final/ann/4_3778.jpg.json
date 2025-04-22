@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521738,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.678Z",
+            "updatedAt": "2023-12-16T11:24:43.678Z"
+        },
+        {
+            "id": 13521739,
+            "tagId": 27456,
+            "name": "name",
+            "value": "titanium artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.678Z",
+            "updatedAt": "2023-12-16T11:24:43.678Z"
+        }
+    ],
+    "size": {
+        "height": 234,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232701,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.679Z",
+            "updatedAt": "2023-12-16T11:24:43.679Z",
+            "tags": [
+                {
+                    "id": 77143197,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.13,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.678Z",
+                    "updatedAt": "2023-12-16T11:24:43.678Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        50
+                    ],
+                    [
+                        1001,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

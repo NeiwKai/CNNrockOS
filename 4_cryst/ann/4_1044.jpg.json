@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521792,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.475Z",
+            "updatedAt": "2023-12-16T11:24:44.475Z"
+        },
+        {
+            "id": 13521793,
+            "tagId": 27456,
+            "name": "name",
+            "value": "adular",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.475Z",
+            "updatedAt": "2023-12-16T11:24:44.475Z"
+        },
+        {
+            "id": 13521794,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "hypoparallel splices",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.475Z",
+            "updatedAt": "2023-12-16T11:24:44.475Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 805
+    },
+    "objects": [
+        {
+            "id": 98232732,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z",
+            "tags": [
+                {
+                    "id": 77143228,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.128,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.477Z",
+                    "updatedAt": "2023-12-16T11:24:44.477Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        39
+                    ],
+                    [
+                        790,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

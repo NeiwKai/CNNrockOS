@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521815,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        },
+        {
+            "id": 13521816,
+            "tagId": 27456,
+            "name": "name",
+            "value": "euclase",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        },
+        {
+            "id": 13521817,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "010, 910, 320, 110, 340, 590, 120, -131, 111",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.480Z",
+            "updatedAt": "2023-12-16T11:24:44.480Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 98232742,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.481Z",
+            "updatedAt": "2023-12-16T11:24:44.481Z",
+            "tags": [
+                {
+                    "id": 77143238,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.239,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.481Z",
+                    "updatedAt": "2023-12-16T11:24:44.481Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        425
+                    ],
+                    [
+                        515,
+                        926
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521623,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.148Z",
+            "updatedAt": "2023-12-16T11:24:42.148Z"
+        },
+        {
+            "id": 13521624,
+            "tagId": 27456,
+            "name": "name",
+            "value": "zircon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.148Z",
+            "updatedAt": "2023-12-16T11:24:42.148Z"
+        }
+    ],
+    "size": {
+        "height": 720,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232627,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.152Z",
+            "updatedAt": "2023-12-16T11:24:42.152Z",
+            "tags": [
+                {
+                    "id": 77143123,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.125,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.152Z",
+                    "updatedAt": "2023-12-16T11:24:42.152Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        135
+                    ],
+                    [
+                        464,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232626,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.152Z",
+            "updatedAt": "2023-12-16T11:24:42.152Z",
+            "tags": [
+                {
+                    "id": 77143122,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.101,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.152Z",
+                    "updatedAt": "2023-12-16T11:24:42.152Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        221
+                    ],
+                    [
+                        688,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232625,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z",
+            "tags": [
+                {
+                    "id": 77143121,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.155,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.151Z",
+                    "updatedAt": "2023-12-16T11:24:42.151Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        318
+                    ],
+                    [
+                        932,
+                        510
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232624,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z",
+            "tags": [
+                {
+                    "id": 77143120,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.127,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.151Z",
+                    "updatedAt": "2023-12-16T11:24:42.151Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        708,
+                        316
+                    ],
+                    [
+                        926,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232623,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.151Z",
+            "updatedAt": "2023-12-16T11:24:42.151Z",
+            "tags": [
+                {
+                    "id": 77143119,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.119,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.151Z",
+                    "updatedAt": "2023-12-16T11:24:42.151Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        371
+                    ],
+                    [
+                        368,
+                        624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232622,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.150Z",
+            "updatedAt": "2023-12-16T11:24:42.150Z",
+            "tags": [
+                {
+                    "id": 77143118,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.11,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.150Z",
+                    "updatedAt": "2023-12-16T11:24:42.150Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        371
+                    ],
+                    [
+                        364,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232621,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.149Z",
+            "updatedAt": "2023-12-16T11:24:42.149Z",
+            "tags": [
+                {
+                    "id": 77143117,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.116,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.148Z",
+                    "updatedAt": "2023-12-16T11:24:42.148Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        357
+                    ],
+                    [
+                        699,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

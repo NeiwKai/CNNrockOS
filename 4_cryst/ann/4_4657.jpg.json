@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521564,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z"
+        },
+        {
+            "id": 13521565,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z"
+        },
+        {
+            "id": 13521566,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 10.5,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z"
+        },
+        {
+            "id": 13521567,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z"
+        },
+        {
+            "id": 13521568,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "long-columnar 10.5 x 1.5 cm crystal with a predominance of sharpest rhombohedra of the same sign and the main rhombohedron of the opposite sign in the faceting of the head, with imprints and ingrowths of neighboring crystals at the base.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.137Z",
+            "updatedAt": "2023-12-16T11:24:42.137Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 747
+    },
+    "objects": [
+        {
+            "id": 98232579,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.139Z",
+            "updatedAt": "2023-12-16T11:24:42.139Z",
+            "tags": [
+                {
+                    "id": 77143075,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.255,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.138Z",
+                    "updatedAt": "2023-12-16T11:24:42.138Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        18
+                    ],
+                    [
+                        476,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232578,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.138Z",
+            "updatedAt": "2023-12-16T11:24:42.138Z",
+            "tags": [
+                {
+                    "id": 77143074,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.149,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.137Z",
+                    "updatedAt": "2023-12-16T11:24:42.137Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        658
+                    ],
+                    [
+                        209,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521886,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        },
+        {
+            "id": 13521887,
+            "tagId": 27456,
+            "name": "name",
+            "value": "almandine",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        },
+        {
+            "id": 13521888,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "pseudo-tetragonal, elongated along one of the 4th-order symmetry axes, a calcite crystal 5 cm in size.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.282Z",
+            "updatedAt": "2023-12-16T11:24:45.282Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 759
+    },
+    "objects": [
+        {
+            "id": 98232776,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.283Z",
+            "updatedAt": "2023-12-16T11:24:45.283Z",
+            "tags": [
+                {
+                    "id": 77143272,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.75,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.283Z",
+                    "updatedAt": "2023-12-16T11:24:45.283Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        356
+                    ],
+                    [
+                        634,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521923,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z"
+        },
+        {
+            "id": 13521924,
+            "tagId": 27456,
+            "name": "name",
+            "value": "orthoclase",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z"
+        },
+        {
+            "id": 13521925,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 8,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z"
+        },
+        {
+            "id": 13521926,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Orthoclase",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z"
+        },
+        {
+            "id": 13521927,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "intergrowth of light gray columnar twinned crystals up to 8x2.5x2.5cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 994
+    },
+    "objects": [
+        {
+            "id": 98232796,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.291Z",
+            "updatedAt": "2023-12-16T11:24:45.291Z",
+            "tags": [
+                {
+                    "id": 77143292,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.104,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.290Z",
+                    "updatedAt": "2023-12-16T11:24:45.290Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        414
+                    ],
+                    [
+                        878,
+                        812
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232795,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143291,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.338,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.289Z",
+                    "updatedAt": "2023-12-16T11:24:45.289Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        38
+                    ],
+                    [
+                        952,
+                        812
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

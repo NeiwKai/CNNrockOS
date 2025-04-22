@@ -1,0 +1,267 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521678,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.947Z",
+            "updatedAt": "2023-12-16T11:24:42.947Z"
+        },
+        {
+            "id": 13521679,
+            "tagId": 27456,
+            "name": "name",
+            "value": "samarskit",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.947Z",
+            "updatedAt": "2023-12-16T11:24:42.947Z"
+        }
+    ],
+    "size": {
+        "height": 632,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232668,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.954Z",
+            "updatedAt": "2023-12-16T11:24:42.954Z",
+            "tags": [
+                {
+                    "id": 77143164,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.116,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.954Z",
+                    "updatedAt": "2023-12-16T11:24:42.954Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        93
+                    ],
+                    [
+                        333,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232667,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.953Z",
+            "updatedAt": "2023-12-16T11:24:42.953Z",
+            "tags": [
+                {
+                    "id": 77143163,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.135,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.953Z",
+                    "updatedAt": "2023-12-16T11:24:42.953Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        122
+                    ],
+                    [
+                        603,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232666,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.952Z",
+            "updatedAt": "2023-12-16T11:24:42.952Z",
+            "tags": [
+                {
+                    "id": 77143162,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.192,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.952Z",
+                    "updatedAt": "2023-12-16T11:24:42.952Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        238
+                    ],
+                    [
+                        540,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232665,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.951Z",
+            "updatedAt": "2023-12-16T11:24:42.951Z",
+            "tags": [
+                {
+                    "id": 77143161,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.164,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.951Z",
+                    "updatedAt": "2023-12-16T11:24:42.951Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        205
+                    ],
+                    [
+                        725,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232664,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.950Z",
+            "updatedAt": "2023-12-16T11:24:42.950Z",
+            "tags": [
+                {
+                    "id": 77143160,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.132,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.950Z",
+                    "updatedAt": "2023-12-16T11:24:42.950Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        324
+                    ],
+                    [
+                        420,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232663,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.949Z",
+            "updatedAt": "2023-12-16T11:24:42.949Z",
+            "tags": [
+                {
+                    "id": 77143159,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.185,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.949Z",
+                    "updatedAt": "2023-12-16T11:24:42.949Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        337
+                    ],
+                    [
+                        640,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232662,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.948Z",
+            "updatedAt": "2023-12-16T11:24:42.948Z",
+            "tags": [
+                {
+                    "id": 77143158,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.116,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.948Z",
+                    "updatedAt": "2023-12-16T11:24:42.948Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        38
+                    ],
+                    [
+                        739,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522142,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.243Z",
+            "updatedAt": "2023-12-16T11:24:47.243Z"
+        },
+        {
+            "id": 13522143,
+            "tagId": 27456,
+            "name": "name",
+            "value": "cassiterite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.243Z",
+            "updatedAt": "2023-12-16T11:24:47.243Z"
+        },
+        {
+            "id": 13522144,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "dipyramid crystals. short prism. double on the edge of the pyramid, brilliance. red-brown color, transparent at the edges.\n\n4.5x4x3 cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.243Z",
+            "updatedAt": "2023-12-16T11:24:47.243Z"
+        }
+    ],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232918,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:47.244Z",
+            "updatedAt": "2023-12-16T11:24:47.244Z",
+            "tags": [
+                {
+                    "id": 77143414,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.529,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:47.244Z",
+                    "updatedAt": "2023-12-16T11:24:47.244Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        147
+                    ],
+                    [
+                        804,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

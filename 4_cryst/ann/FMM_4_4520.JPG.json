@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522115,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z"
+        },
+        {
+            "id": 13522116,
+            "tagId": 27456,
+            "name": "name",
+            "value": "pyrite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z"
+        },
+        {
+            "id": 13522117,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "crystal with the development of the {111} and {100} forms.\n\n1.5x1.5x1.5 cm",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232907,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.793Z",
+            "updatedAt": "2023-12-16T11:24:46.793Z",
+            "tags": [
+                {
+                    "id": 77143403,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.421,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.792Z",
+                    "updatedAt": "2023-12-16T11:24:46.792Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        269
+                    ],
+                    [
+                        554,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232906,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.790Z",
+            "updatedAt": "2023-12-16T11:24:46.790Z",
+            "tags": [
+                {
+                    "id": 77143402,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.11,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.790Z",
+                    "updatedAt": "2023-12-16T11:24:46.790Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        267
+                    ],
+                    [
+                        557,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522006,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.070Z",
+            "updatedAt": "2023-12-16T11:24:46.070Z"
+        },
+        {
+            "id": 13522007,
+            "tagId": 27456,
+            "name": "name",
+            "value": "alum (artificial product)",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.070Z",
+            "updatedAt": "2023-12-16T11:24:46.070Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232844,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.071Z",
+            "updatedAt": "2023-12-16T11:24:46.071Z",
+            "tags": [
+                {
+                    "id": 77143340,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.19,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.071Z",
+                    "updatedAt": "2023-12-16T11:24:46.071Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        124
+                    ],
+                    [
+                        731,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

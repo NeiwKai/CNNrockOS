@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521851,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.488Z",
+            "updatedAt": "2023-12-16T11:24:44.488Z"
+        },
+        {
+            "id": 13521852,
+            "tagId": 27456,
+            "name": "name",
+            "value": "phlogopite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.488Z",
+            "updatedAt": "2023-12-16T11:24:44.488Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1023
+    },
+    "objects": [
+        {
+            "id": 98232756,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.489Z",
+            "updatedAt": "2023-12-16T11:24:44.489Z",
+            "tags": [
+                {
+                    "id": 77143252,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.298,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.488Z",
+                    "updatedAt": "2023-12-16T11:24:44.488Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        21
+                    ],
+                    [
+                        752,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

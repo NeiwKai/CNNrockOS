@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521787,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.473Z",
+            "updatedAt": "2023-12-16T11:24:44.473Z"
+        },
+        {
+            "id": 13521788,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.473Z",
+            "updatedAt": "2023-12-16T11:24:44.473Z"
+        },
+        {
+            "id": 13521789,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "colorless quartz (artificial crystals)",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.473Z",
+            "updatedAt": "2023-12-16T11:24:44.473Z"
+        }
+    ],
+    "size": {
+        "height": 392,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232729,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.475Z",
+            "updatedAt": "2023-12-16T11:24:44.475Z",
+            "tags": [
+                {
+                    "id": 77143225,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.113,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.475Z",
+                    "updatedAt": "2023-12-16T11:24:44.475Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        177
+                    ],
+                    [
+                        636,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232728,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.473Z",
+            "updatedAt": "2023-12-16T11:24:44.473Z",
+            "tags": [
+                {
+                    "id": 77143224,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.126,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.473Z",
+                    "updatedAt": "2023-12-16T11:24:44.473Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        633,
+                        117
+                    ],
+                    [
+                        877,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

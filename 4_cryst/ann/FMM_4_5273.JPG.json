@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521964,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.062Z",
+            "updatedAt": "2023-12-16T11:24:46.062Z"
+        },
+        {
+            "id": 13521965,
+            "tagId": 27456,
+            "name": "name",
+            "value": "sanidin",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.062Z",
+            "updatedAt": "2023-12-16T11:24:46.062Z"
+        },
+        {
+            "id": 13521966,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a grayish twin of sanidine according to the carlsbad law, 3 x 3 x 1.5 cm in size. with white inclusions of k-na feldspar, biotite, and black pyroxene.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.062Z",
+            "updatedAt": "2023-12-16T11:24:46.062Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232827,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z",
+            "tags": [
+                {
+                    "id": 77143323,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.35,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.064Z",
+                    "updatedAt": "2023-12-16T11:24:46.064Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        180
+                    ],
+                    [
+                        618,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

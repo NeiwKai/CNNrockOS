@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521960,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.060Z",
+            "updatedAt": "2023-12-16T11:24:46.060Z"
+        },
+        {
+            "id": 13521961,
+            "tagId": 27456,
+            "name": "name",
+            "value": "corundum",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.060Z",
+            "updatedAt": "2023-12-16T11:24:46.060Z"
+        }
+    ],
+    "size": {
+        "height": 623,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232825,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.062Z",
+            "updatedAt": "2023-12-16T11:24:46.062Z",
+            "tags": [
+                {
+                    "id": 77143321,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.472,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.062Z",
+                    "updatedAt": "2023-12-16T11:24:46.062Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        142
+                    ],
+                    [
+                        778,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232824,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.061Z",
+            "updatedAt": "2023-12-16T11:24:46.061Z",
+            "tags": [
+                {
+                    "id": 77143320,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.118,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.061Z",
+                    "updatedAt": "2023-12-16T11:24:46.061Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        147
+                    ],
+                    [
+                        781,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

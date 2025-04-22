@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521801,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        },
+        {
+            "id": 13521802,
+            "tagId": 27456,
+            "name": "name",
+            "value": "calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 714
+    },
+    "objects": [
+        {
+            "id": 98232735,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z",
+            "tags": [
+                {
+                    "id": 77143231,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.338,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.478Z",
+                    "updatedAt": "2023-12-16T11:24:44.478Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        74
+                    ],
+                    [
+                        543,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

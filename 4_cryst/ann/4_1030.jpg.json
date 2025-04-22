@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521848,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.487Z",
+            "updatedAt": "2023-12-16T11:24:44.487Z"
+        },
+        {
+            "id": 13521849,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.487Z",
+            "updatedAt": "2023-12-16T11:24:44.487Z"
+        },
+        {
+            "id": 13521850,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "corrosion",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.487Z",
+            "updatedAt": "2023-12-16T11:24:44.487Z"
+        }
+    ],
+    "size": {
+        "height": 615,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232755,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.488Z",
+            "updatedAt": "2023-12-16T11:24:44.488Z",
+            "tags": [
+                {
+                    "id": 77143251,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.1,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.488Z",
+                    "updatedAt": "2023-12-16T11:24:44.488Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        53
+                    ],
+                    [
+                        838,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522055,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        },
+        {
+            "id": 13522056,
+            "tagId": 27456,
+            "name": "name",
+            "value": "khalkozin",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        },
+        {
+            "id": 13522057,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "an intergrowth of flat hexagonal black crystals of chalcocite. the two main crystals show skeletal growth (their dimensions are 2.5 x 1.5 x 0.4 and 1.5 x 1 x 0.4 cm). with small crystals of calcite and quartz.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232873,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.781Z",
+            "updatedAt": "2023-12-16T11:24:46.781Z",
+            "tags": [
+                {
+                    "id": 77143369,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.287,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.781Z",
+                    "updatedAt": "2023-12-16T11:24:46.781Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        219
+                    ],
+                    [
+                        579,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232872,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.780Z",
+            "updatedAt": "2023-12-16T11:24:46.780Z",
+            "tags": [
+                {
+                    "id": 77143368,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.112,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.780Z",
+                    "updatedAt": "2023-12-16T11:24:46.780Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        224
+                    ],
+                    [
+                        501,
+                        498
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

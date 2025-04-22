@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522091,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        },
+        {
+            "id": 13522092,
+            "tagId": 27456,
+            "name": "name",
+            "value": "yttrium aluminate",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        },
+        {
+            "id": 13522093,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 12,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        },
+        {
+            "id": 13522094,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "red translucent fissured boule of yttrium aluminate.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232892,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.787Z",
+            "updatedAt": "2023-12-16T11:24:46.787Z",
+            "tags": [
+                {
+                    "id": 77143388,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.209,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.787Z",
+                    "updatedAt": "2023-12-16T11:24:46.787Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        194
+                    ],
+                    [
+                        795,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232891,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.786Z",
+            "updatedAt": "2023-12-16T11:24:46.786Z",
+            "tags": [
+                {
+                    "id": 77143387,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.174,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.786Z",
+                    "updatedAt": "2023-12-16T11:24:46.786Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        195
+                    ],
+                    [
+                        795,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

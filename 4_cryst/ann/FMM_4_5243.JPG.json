@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522064,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.782Z",
+            "updatedAt": "2023-12-16T11:24:46.782Z"
+        },
+        {
+            "id": 13522065,
+            "tagId": 27456,
+            "name": "name",
+            "value": "diaoyuidaoite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.782Z",
+            "updatedAt": "2023-12-16T11:24:46.782Z"
+        },
+        {
+            "id": 13522066,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 0.7,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.782Z",
+            "updatedAt": "2023-12-16T11:24:46.782Z"
+        },
+        {
+            "id": 13522067,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Diaoyuidaoite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.782Z",
+            "updatedAt": "2023-12-16T11:24:46.782Z"
+        },
+        {
+            "id": 13522068,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "druse of small (<1 mm) colorless cuboid crystals of diaoyuidaoite on a granular aggregate of diaoyuidaoite and corundum. sample 0.7 x 0.6 x 0.4 cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.782Z",
+            "updatedAt": "2023-12-16T11:24:46.782Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232877,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.783Z",
+            "updatedAt": "2023-12-16T11:24:46.783Z",
+            "tags": [
+                {
+                    "id": 77143373,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.127,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.783Z",
+                    "updatedAt": "2023-12-16T11:24:46.783Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        334
+                    ],
+                    [
+                        368,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

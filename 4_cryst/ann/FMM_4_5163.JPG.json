@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521994,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.066Z",
+            "updatedAt": "2023-12-16T11:24:46.066Z"
+        },
+        {
+            "id": 13521995,
+            "tagId": 27456,
+            "name": "name",
+            "value": "pyrite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.066Z",
+            "updatedAt": "2023-12-16T11:24:46.066Z"
+        },
+        {
+            "id": 13521996,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "pyrite crystal size 3x1 cm pseudorhombohedral appearance formed by six of the 12 faces of the pentagondodecahedron {012}.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.066Z",
+            "updatedAt": "2023-12-16T11:24:46.066Z"
+        }
+    ],
+    "size": {
+        "height": 745,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232838,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.069Z",
+            "updatedAt": "2023-12-16T11:24:46.069Z",
+            "tags": [
+                {
+                    "id": 77143334,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.193,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.069Z",
+                    "updatedAt": "2023-12-16T11:24:46.069Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        275
+                    ],
+                    [
+                        606,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232837,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.068Z",
+            "updatedAt": "2023-12-16T11:24:46.068Z",
+            "tags": [
+                {
+                    "id": 77143333,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.115,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.067Z",
+                    "updatedAt": "2023-12-16T11:24:46.067Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        279
+                    ],
+                    [
+                        601,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

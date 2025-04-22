@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521866,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521867,
+            "tagId": 27456,
+            "name": "name",
+            "value": "gypsum",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521868,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "transparent colorless crystal 13x10x6cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 732
+    },
+    "objects": [
+        {
+            "id": 98232766,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.279Z",
+            "updatedAt": "2023-12-16T11:24:45.279Z",
+            "tags": [
+                {
+                    "id": 77143262,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.527,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.279Z",
+                    "updatedAt": "2023-12-16T11:24:45.279Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        114
+                    ],
+                    [
+                        668,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

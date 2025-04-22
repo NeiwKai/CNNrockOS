@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522058,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        },
+        {
+            "id": 13522059,
+            "tagId": 27456,
+            "name": "name",
+            "value": "danburite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        },
+        {
+            "id": 13522060,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a prismatic colorless danburite crystal 5.5 x 2.5 x 1.5 cm in size, faceted by a habit prism with subordinate faces of prisms {011}, {101}, {201}, pinacoid {001} and dipyramids {111}.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.779Z",
+            "updatedAt": "2023-12-16T11:24:46.779Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232875,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.781Z",
+            "updatedAt": "2023-12-16T11:24:46.781Z",
+            "tags": [
+                {
+                    "id": 77143371,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.186,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.781Z",
+                    "updatedAt": "2023-12-16T11:24:46.781Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        134
+                    ],
+                    [
+                        667,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232874,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.780Z",
+            "updatedAt": "2023-12-16T11:24:46.780Z",
+            "tags": [
+                {
+                    "id": 77143370,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.115,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.780Z",
+                    "updatedAt": "2023-12-16T11:24:46.780Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        769,
+                        662
+                    ],
+                    [
+                        920,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

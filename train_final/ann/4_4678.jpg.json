@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521818,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.481Z",
+            "updatedAt": "2023-12-16T11:24:44.481Z"
+        },
+        {
+            "id": 13521819,
+            "tagId": 27456,
+            "name": "name",
+            "value": "makedonite synthetic",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.481Z",
+            "updatedAt": "2023-12-16T11:24:44.481Z"
+        },
+        {
+            "id": 13521820,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "grains in a test tube.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.481Z",
+            "updatedAt": "2023-12-16T11:24:44.481Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232743,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.483Z",
+            "updatedAt": "2023-12-16T11:24:44.483Z",
+            "tags": [
+                {
+                    "id": 77143239,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.12,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.483Z",
+                    "updatedAt": "2023-12-16T11:24:44.483Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        300
+                    ],
+                    [
+                        597,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

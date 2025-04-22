@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521711,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        },
+        {
+            "id": 13521712,
+            "tagId": 27456,
+            "name": "name",
+            "value": "gold",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 920
+    },
+    "objects": [
+        {
+            "id": 98232687,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.670Z",
+            "updatedAt": "2023-12-16T11:24:43.670Z",
+            "tags": [
+                {
+                    "id": 77143183,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.278,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.670Z",
+                    "updatedAt": "2023-12-16T11:24:43.670Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        184
+                    ],
+                    [
+                        714,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

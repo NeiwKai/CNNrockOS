@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521973,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z"
+        },
+        {
+            "id": 13521974,
+            "tagId": 27456,
+            "name": "name",
+            "value": "calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z"
+        },
+        {
+            "id": 13521975,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 3,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z"
+        },
+        {
+            "id": 13521976,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z"
+        },
+        {
+            "id": 13521977,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "twinned calcite crystal.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.064Z",
+            "updatedAt": "2023-12-16T11:24:46.064Z"
+        }
+    ],
+    "size": {
+        "height": 773,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232830,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.065Z",
+            "updatedAt": "2023-12-16T11:24:46.065Z",
+            "tags": [
+                {
+                    "id": 77143326,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.113,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.065Z",
+                    "updatedAt": "2023-12-16T11:24:46.065Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        138
+                    ],
+                    [
+                        673,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521910,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521911,
+            "tagId": 27456,
+            "name": "name",
+            "value": "hematite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521912,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 6.5,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521913,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Hematite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521914,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "skeletal crystal of magnetite, replaced by hematite. the crystal is elongated along the axis of symmetry of the fourth order so that the faces of the rhombic dodecahedron form a tetragonal pseudoprism (with longitudinal slit-like depressions in the cente",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        }
+    ],
+    "size": {
+        "height": 553,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232790,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143286,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.105,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.289Z",
+                    "updatedAt": "2023-12-16T11:24:45.289Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        74
+                    ],
+                    [
+                        594,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232789,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143285,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.102,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.288Z",
+                    "updatedAt": "2023-12-16T11:24:45.288Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        117
+                    ],
+                    [
+                        335,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

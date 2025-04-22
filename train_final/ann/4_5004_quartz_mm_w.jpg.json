@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521877,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.280Z",
+            "updatedAt": "2023-12-16T11:24:45.280Z"
+        },
+        {
+            "id": 13521878,
+            "tagId": 27456,
+            "name": "name",
+            "value": "quartz",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.280Z",
+            "updatedAt": "2023-12-16T11:24:45.280Z"
+        },
+        {
+            "id": 13521879,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "twin joint (according to japanese law) of two amethyst crystals.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.280Z",
+            "updatedAt": "2023-12-16T11:24:45.280Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 829
+    },
+    "objects": [
+        {
+            "id": 98232770,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.281Z",
+            "updatedAt": "2023-12-16T11:24:45.281Z",
+            "tags": [
+                {
+                    "id": 77143266,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.366,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.281Z",
+                    "updatedAt": "2023-12-16T11:24:45.281Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        260
+                    ],
+                    [
+                        790,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

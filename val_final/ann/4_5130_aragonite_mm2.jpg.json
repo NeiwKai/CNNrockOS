@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521601,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.148Z",
+            "updatedAt": "2023-12-16T11:24:42.148Z"
+        },
+        {
+            "id": 13521602,
+            "tagId": 27456,
+            "name": "name",
+            "value": "aragonite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.148Z",
+            "updatedAt": "2023-12-16T11:24:42.148Z"
+        },
+        {
+            "id": 13521603,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a colorless transparent block aragonite tee resembling a classic quartz crystal in shape.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.148Z",
+            "updatedAt": "2023-12-16T11:24:42.148Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 680
+    },
+    "objects": [
+        {
+            "id": 98232601,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.149Z",
+            "updatedAt": "2023-12-16T11:24:42.149Z",
+            "tags": [
+                {
+                    "id": 77143097,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.454,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.148Z",
+                    "updatedAt": "2023-12-16T11:24:42.148Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        134
+                    ],
+                    [
+                        536,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

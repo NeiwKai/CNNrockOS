@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521771,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.683Z",
+            "updatedAt": "2023-12-16T11:24:43.683Z"
+        },
+        {
+            "id": 13521772,
+            "tagId": 27456,
+            "name": "name",
+            "value": "staurolite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.683Z",
+            "updatedAt": "2023-12-16T11:24:43.683Z"
+        },
+        {
+            "id": 13521773,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "twinned by (231) splice in the form of a straight cross. both individuals have a short-columnar appearance and are faceted by a prism {110} and pinacoids {010} and {001}",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.683Z",
+            "updatedAt": "2023-12-16T11:24:43.683Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232719,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.685Z",
+            "updatedAt": "2023-12-16T11:24:43.685Z",
+            "tags": [
+                {
+                    "id": 77143215,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.376,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.685Z",
+                    "updatedAt": "2023-12-16T11:24:43.685Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        329
+                    ],
+                    [
+                        679,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232718,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.684Z",
+            "updatedAt": "2023-12-16T11:24:43.684Z",
+            "tags": [
+                {
+                    "id": 77143214,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.128,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.684Z",
+                    "updatedAt": "2023-12-16T11:24:43.684Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        332
+                    ],
+                    [
+                        678,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

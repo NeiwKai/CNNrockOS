@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522124,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        },
+        {
+            "id": 13522125,
+            "tagId": 27456,
+            "name": "name",
+            "value": "yttro aluminum garnet",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        },
+        {
+            "id": 13522126,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 18,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        },
+        {
+            "id": 13522127,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "lilac in daylight and yellowish-gray to colorless in artificial light, itro-aluminum garnet, repeating the shape of a crucible (boat).",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.792Z",
+            "updatedAt": "2023-12-16T11:24:46.792Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232912,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.793Z",
+            "updatedAt": "2023-12-16T11:24:46.793Z",
+            "tags": [
+                {
+                    "id": 77143408,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.123,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.793Z",
+                    "updatedAt": "2023-12-16T11:24:46.793Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        188
+                    ],
+                    [
+                        885,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232911,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.793Z",
+            "updatedAt": "2023-12-16T11:24:46.793Z",
+            "tags": [
+                {
+                    "id": 77143407,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.107,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.793Z",
+                    "updatedAt": "2023-12-16T11:24:46.793Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        180
+                    ],
+                    [
+                        886,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

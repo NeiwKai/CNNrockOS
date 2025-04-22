@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522033,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.075Z",
+            "updatedAt": "2023-12-16T11:24:46.075Z"
+        },
+        {
+            "id": 13522034,
+            "tagId": 27456,
+            "name": "name",
+            "value": "apatite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.075Z",
+            "updatedAt": "2023-12-16T11:24:46.075Z"
+        },
+        {
+            "id": 13522035,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "gray well formed columnar apatite crystal faceted with 2 hexagonal prisms, a pyramid and a pinacoid.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.075Z",
+            "updatedAt": "2023-12-16T11:24:46.075Z"
+        }
+    ],
+    "size": {
+        "height": 801,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232863,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.076Z",
+            "updatedAt": "2023-12-16T11:24:46.076Z",
+            "tags": [
+                {
+                    "id": 77143359,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.421,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.076Z",
+                    "updatedAt": "2023-12-16T11:24:46.076Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        71
+                    ],
+                    [
+                        932,
+                        750
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232862,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.076Z",
+            "updatedAt": "2023-12-16T11:24:46.076Z",
+            "tags": [
+                {
+                    "id": 77143358,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.234,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.076Z",
+                    "updatedAt": "2023-12-16T11:24:46.076Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        526
+                    ],
+                    [
+                        812,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

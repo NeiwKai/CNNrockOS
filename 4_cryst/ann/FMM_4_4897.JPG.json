@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522104,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.788Z",
+            "updatedAt": "2023-12-16T11:24:46.788Z"
+        },
+        {
+            "id": 13522105,
+            "tagId": 27456,
+            "name": "name",
+            "value": "nickelbussengothite synthetic",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.788Z",
+            "updatedAt": "2023-12-16T11:24:46.788Z"
+        },
+        {
+            "id": 13522106,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "emerald green transparent crystal of synthetic nickelbussengotite.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.788Z",
+            "updatedAt": "2023-12-16T11:24:46.788Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232898,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.789Z",
+            "updatedAt": "2023-12-16T11:24:46.789Z",
+            "tags": [
+                {
+                    "id": 77143394,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.243,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.789Z",
+                    "updatedAt": "2023-12-16T11:24:46.789Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        261
+                    ],
+                    [
+                        562,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

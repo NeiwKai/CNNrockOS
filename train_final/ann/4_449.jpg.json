@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521798,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        },
+        {
+            "id": 13521799,
+            "tagId": 27456,
+            "name": "name",
+            "value": "alum (artificial product)",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        },
+        {
+            "id": 13521800,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "parallel splices",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232734,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.478Z",
+            "updatedAt": "2023-12-16T11:24:44.478Z",
+            "tags": [
+                {
+                    "id": 77143230,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.213,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.478Z",
+                    "updatedAt": "2023-12-16T11:24:44.478Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        181
+                    ],
+                    [
+                        932,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521586,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.142Z",
+            "updatedAt": "2023-12-16T11:24:42.142Z"
+        },
+        {
+            "id": 13521587,
+            "tagId": 27456,
+            "name": "name",
+            "value": "artificial galena",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.142Z",
+            "updatedAt": "2023-12-16T11:24:42.142Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232593,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.144Z",
+            "updatedAt": "2023-12-16T11:24:42.144Z",
+            "tags": [
+                {
+                    "id": 77143089,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.399,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.144Z",
+                    "updatedAt": "2023-12-16T11:24:42.144Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        405
+                    ],
+                    [
+                        690,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

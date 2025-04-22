@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522095,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        },
+        {
+            "id": 13522096,
+            "tagId": 27456,
+            "name": "name",
+            "value": "crocoite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        },
+        {
+            "id": 13522097,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a flattened crocoite crystal measuring 3 x 2 x 0.5 cm.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.785Z",
+            "updatedAt": "2023-12-16T11:24:46.785Z"
+        }
+    ],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232894,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.787Z",
+            "updatedAt": "2023-12-16T11:24:46.787Z",
+            "tags": [
+                {
+                    "id": 77143390,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.191,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.787Z",
+                    "updatedAt": "2023-12-16T11:24:46.787Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        232
+                    ],
+                    [
+                        574,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232893,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.786Z",
+            "updatedAt": "2023-12-16T11:24:46.786Z",
+            "tags": [
+                {
+                    "id": 77143389,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.101,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.786Z",
+                    "updatedAt": "2023-12-16T11:24:46.786Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        229
+                    ],
+                    [
+                        583,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

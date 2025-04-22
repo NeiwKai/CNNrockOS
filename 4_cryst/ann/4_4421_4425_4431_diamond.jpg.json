@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13522025,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.070Z",
+            "updatedAt": "2023-12-16T11:24:46.070Z"
+        },
+        {
+            "id": 13522026,
+            "tagId": 27456,
+            "name": "name",
+            "value": "diamond",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.070Z",
+            "updatedAt": "2023-12-16T11:24:46.070Z"
+        },
+        {
+            "id": 13522027,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "flat-faced blue octahedron with incl. spinels\n\nweight 1.96 ct.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.070Z",
+            "updatedAt": "2023-12-16T11:24:46.070Z"
+        }
+    ],
+    "size": {
+        "height": 773,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232858,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.075Z",
+            "updatedAt": "2023-12-16T11:24:46.075Z",
+            "tags": [
+                {
+                    "id": 77143354,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.168,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.075Z",
+                    "updatedAt": "2023-12-16T11:24:46.075Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        243
+                    ],
+                    [
+                        391,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232857,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.074Z",
+            "updatedAt": "2023-12-16T11:24:46.074Z",
+            "tags": [
+                {
+                    "id": 77143353,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.184,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.074Z",
+                    "updatedAt": "2023-12-16T11:24:46.074Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        568,
+                        193
+                    ],
+                    [
+                        763,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232856,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z",
+            "tags": [
+                {
+                    "id": 77143352,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.315,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.072Z",
+                    "updatedAt": "2023-12-16T11:24:46.072Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        109
+                    ],
+                    [
+                        796,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232855,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.072Z",
+            "updatedAt": "2023-12-16T11:24:46.072Z",
+            "tags": [
+                {
+                    "id": 77143351,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.163,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.072Z",
+                    "updatedAt": "2023-12-16T11:24:46.072Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        363
+                    ],
+                    [
+                        388,
+                        565
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232854,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:46.071Z",
+            "updatedAt": "2023-12-16T11:24:46.071Z",
+            "tags": [
+                {
+                    "id": 77143350,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.193,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:46.071Z",
+                    "updatedAt": "2023-12-16T11:24:46.071Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        488
+                    ],
+                    [
+                        787,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

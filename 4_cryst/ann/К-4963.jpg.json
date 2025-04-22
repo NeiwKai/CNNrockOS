@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521918,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521919,
+            "tagId": 27456,
+            "name": "name",
+            "value": "hematite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521920,
+            "tagId": 27455,
+            "name": "size_sm",
+            "value": 8,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521921,
+            "tagId": 27466,
+            "name": "mvid",
+            "value": "Hematite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        },
+        {
+            "id": 13521922,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "obelisk-shaped ribbed skeletal magnetite crystal replaced by hematite. the crystal is elongated along a fourfold symmetry axis and is formed by a combination of the faces of a rhombic dodecahedron (forming a pseudoprism) and an octahedron (forming a pseu",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.287Z",
+            "updatedAt": "2023-12-16T11:24:45.287Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 684
+    },
+    "objects": [
+        {
+            "id": 98232794,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143290,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.126,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.289Z",
+                    "updatedAt": "2023-12-16T11:24:45.289Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        39
+                    ],
+                    [
+                        471,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232793,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.289Z",
+            "updatedAt": "2023-12-16T11:24:45.289Z",
+            "tags": [
+                {
+                    "id": 77143289,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.103,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.289Z",
+                    "updatedAt": "2023-12-16T11:24:45.289Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        39
+                    ],
+                    [
+                        484,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

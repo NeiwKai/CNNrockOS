@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521732,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        },
+        {
+            "id": 13521733,
+            "tagId": 27456,
+            "name": "name",
+            "value": "epidote",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        },
+        {
+            "id": 13521734,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "dark green prismatic epidote crystal with quartz ingrowths.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.668Z",
+            "updatedAt": "2023-12-16T11:24:43.668Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 530
+    },
+    "objects": [
+        {
+            "id": 98232699,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.675Z",
+            "updatedAt": "2023-12-16T11:24:43.675Z",
+            "tags": [
+                {
+                    "id": 77143195,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.101,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.675Z",
+                    "updatedAt": "2023-12-16T11:24:43.675Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        132
+                    ],
+                    [
+                        425,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232698,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.674Z",
+            "updatedAt": "2023-12-16T11:24:43.674Z",
+            "tags": [
+                {
+                    "id": 77143194,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.14,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.674Z",
+                    "updatedAt": "2023-12-16T11:24:43.674Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        123
+                    ],
+                    [
+                        441,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232697,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:43.670Z",
+            "updatedAt": "2023-12-16T11:24:43.670Z",
+            "tags": [
+                {
+                    "id": 77143193,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.113,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:43.670Z",
+                    "updatedAt": "2023-12-16T11:24:43.670Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        109
+                    ],
+                    [
+                        515,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521598,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.146Z",
+            "updatedAt": "2023-12-16T11:24:42.146Z"
+        },
+        {
+            "id": 13521599,
+            "tagId": 27456,
+            "name": "name",
+            "value": "fluorite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.146Z",
+            "updatedAt": "2023-12-16T11:24:42.146Z"
+        },
+        {
+            "id": 13521600,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "fluorite purple. growth phenomena",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.146Z",
+            "updatedAt": "2023-12-16T11:24:42.146Z"
+        }
+    ],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232600,
+            "classId": 6509649,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.147Z",
+            "updatedAt": "2023-12-16T11:24:42.147Z",
+            "tags": [
+                {
+                    "id": 77143096,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.144,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.147Z",
+                    "updatedAt": "2023-12-16T11:24:42.147Z"
+                }
+            ],
+            "classTitle": "rock",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        157
+                    ],
+                    [
+                        681,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

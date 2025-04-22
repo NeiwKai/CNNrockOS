@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521880,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521881,
+            "tagId": 27456,
+            "name": "name",
+            "value": "fluorapatite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        },
+        {
+            "id": 13521882,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "columnar crystal of bluish-greenish fluorapatite with transparent areas. forms {100} {111}",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.278Z",
+            "updatedAt": "2023-12-16T11:24:45.278Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 661
+    },
+    "objects": [
+        {
+            "id": 98232773,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.281Z",
+            "updatedAt": "2023-12-16T11:24:45.281Z",
+            "tags": [
+                {
+                    "id": 77143269,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.118,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.281Z",
+                    "updatedAt": "2023-12-16T11:24:45.281Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        344
+                    ],
+                    [
+                        657,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232772,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.280Z",
+            "updatedAt": "2023-12-16T11:24:45.280Z",
+            "tags": [
+                {
+                    "id": 77143268,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.278,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.280Z",
+                    "updatedAt": "2023-12-16T11:24:45.280Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        0
+                    ],
+                    [
+                        660,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232771,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.279Z",
+            "updatedAt": "2023-12-16T11:24:45.279Z",
+            "tags": [
+                {
+                    "id": 77143267,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.173,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.279Z",
+                    "updatedAt": "2023-12-16T11:24:45.279Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        277
+                    ],
+                    [
+                        660,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

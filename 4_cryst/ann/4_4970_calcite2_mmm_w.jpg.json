@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521643,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.947Z",
+            "updatedAt": "2023-12-16T11:24:42.947Z"
+        },
+        {
+            "id": 13521644,
+            "tagId": 27456,
+            "name": "name",
+            "value": "calcite",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.947Z",
+            "updatedAt": "2023-12-16T11:24:42.947Z"
+        },
+        {
+            "id": 13521645,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "a crystal of white translucent calcite twinned according to 022-1, 5x5x3.5 cm in size.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.947Z",
+            "updatedAt": "2023-12-16T11:24:42.947Z"
+        }
+    ],
+    "size": {
+        "height": 916,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232642,
+            "classId": 6509647,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.948Z",
+            "updatedAt": "2023-12-16T11:24:42.948Z",
+            "tags": [
+                {
+                    "id": 77143138,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.248,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.948Z",
+                    "updatedAt": "2023-12-16T11:24:42.948Z"
+                }
+            ],
+            "classTitle": "crystal",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        82
+                    ],
+                    [
+                        978,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

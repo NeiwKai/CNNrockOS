@@ -1,0 +1,199 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521858,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.485Z",
+            "updatedAt": "2023-12-16T11:24:44.485Z"
+        },
+        {
+            "id": 13521859,
+            "tagId": 27456,
+            "name": "name",
+            "value": "galena",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.485Z",
+            "updatedAt": "2023-12-16T11:24:44.485Z"
+        }
+    ],
+    "size": {
+        "height": 934,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232763,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.489Z",
+            "updatedAt": "2023-12-16T11:24:44.489Z",
+            "tags": [
+                {
+                    "id": 77143259,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.119,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.489Z",
+                    "updatedAt": "2023-12-16T11:24:44.489Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        260
+                    ],
+                    [
+                        586,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232762,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.489Z",
+            "updatedAt": "2023-12-16T11:24:44.489Z",
+            "tags": [
+                {
+                    "id": 77143258,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.1,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.489Z",
+                    "updatedAt": "2023-12-16T11:24:44.489Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        329
+                    ],
+                    [
+                        341,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232761,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.488Z",
+            "updatedAt": "2023-12-16T11:24:44.488Z",
+            "tags": [
+                {
+                    "id": 77143257,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.105,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.488Z",
+                    "updatedAt": "2023-12-16T11:24:44.488Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        205
+                    ],
+                    [
+                        771,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232760,
+            "classId": 6509650,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.487Z",
+            "updatedAt": "2023-12-16T11:24:44.487Z",
+            "tags": [
+                {
+                    "id": 77143256,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.138,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.487Z",
+                    "updatedAt": "2023-12-16T11:24:44.487Z"
+                }
+            ],
+            "classTitle": "mineral ore",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        353
+                    ],
+                    [
+                        621,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232759,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:44.486Z",
+            "updatedAt": "2023-12-16T11:24:44.486Z",
+            "tags": [
+                {
+                    "id": 77143255,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.196,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:44.485Z",
+                    "updatedAt": "2023-12-16T11:24:44.485Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        189
+                    ],
+                    [
+                        862,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521899,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.284Z",
+            "updatedAt": "2023-12-16T11:24:45.284Z"
+        },
+        {
+            "id": 13521900,
+            "tagId": 27456,
+            "name": "name",
+            "value": "hartzink",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.284Z",
+            "updatedAt": "2023-12-16T11:24:45.284Z"
+        },
+        {
+            "id": 13521901,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "an aggregate of prismatic crystals up to 0.5 cm long of hardzinc (synthetic znxfey intermetallide). from a hot-dip galvanizing bath.",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.284Z",
+            "updatedAt": "2023-12-16T11:24:45.284Z"
+        }
+    ],
+    "size": {
+        "height": 514,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232781,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.285Z",
+            "updatedAt": "2023-12-16T11:24:45.285Z",
+            "tags": [
+                {
+                    "id": 77143277,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.159,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.284Z",
+                    "updatedAt": "2023-12-16T11:24:45.284Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        45
+                    ],
+                    [
+                        1019,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

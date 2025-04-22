@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521934,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.290Z",
+            "updatedAt": "2023-12-16T11:24:45.290Z"
+        },
+        {
+            "id": 13521935,
+            "tagId": 27456,
+            "name": "name",
+            "value": "sheelit artificial",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.290Z",
+            "updatedAt": "2023-12-16T11:24:45.290Z"
+        },
+        {
+            "id": 13521936,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "sod. nd",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.290Z",
+            "updatedAt": "2023-12-16T11:24:45.290Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232801,
+            "classId": 6509648,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.292Z",
+            "updatedAt": "2023-12-16T11:24:45.292Z",
+            "tags": [
+                {
+                    "id": 77143297,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.15,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.292Z",
+                    "updatedAt": "2023-12-16T11:24:45.292Z"
+                }
+            ],
+            "classTitle": "gem",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        469
+                    ],
+                    [
+                        483,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 98232800,
+            "classId": 6509646,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:45.291Z",
+            "updatedAt": "2023-12-16T11:24:45.291Z",
+            "tags": [
+                {
+                    "id": 77143296,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.147,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:45.291Z",
+                    "updatedAt": "2023-12-16T11:24:45.291Z"
+                }
+            ],
+            "classTitle": "mineral",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        469
+                    ],
+                    [
+                        484,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

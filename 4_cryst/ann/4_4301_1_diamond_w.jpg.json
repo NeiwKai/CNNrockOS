@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13521652,
+            "tagId": 27462,
+            "name": "cryst",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.948Z",
+            "updatedAt": "2023-12-16T11:24:42.948Z"
+        },
+        {
+            "id": 13521653,
+            "tagId": 27456,
+            "name": "name",
+            "value": "diamond",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.948Z",
+            "updatedAt": "2023-12-16T11:24:42.948Z"
+        },
+        {
+            "id": 13521654,
+            "tagId": 27467,
+            "name": "dsc",
+            "value": "rhombic dodecahedron with gas inclusion\n\nweight 0.60 ct",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.948Z",
+            "updatedAt": "2023-12-16T11:24:42.948Z"
+        }
+    ],
+    "size": {
+        "height": 684,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 98232650,
+            "classId": 6509645,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-16T11:24:42.949Z",
+            "updatedAt": "2023-12-16T11:24:42.949Z",
+            "tags": [
+                {
+                    "id": 77143146,
+                    "tagId": 27457,
+                    "name": "confidence",
+                    "value": 0.336,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-12-16T11:24:42.949Z",
+                    "updatedAt": "2023-12-16T11:24:42.949Z"
+                }
+            ],
+            "classTitle": "stone",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        130
+                    ],
+                    [
+                        783,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
