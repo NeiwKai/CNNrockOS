@@ -46,3 +46,7 @@
 3. type 'jupyter notebook'
 
 _Note that CUDA only work with NVIDIA GPU_
+
+#### The dataset can be found inside google drive
+https://drive.google.com/drive/folders/1p85ZtLEHbjHYDVmm4tuOKZ6fSX9xkIPv?usp=sharing
+_dataset-ninja/mineralimage5k_
