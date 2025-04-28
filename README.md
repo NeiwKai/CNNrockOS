@@ -13,6 +13,10 @@
 - Julia (v  1.11.4)
 - conda (environment with matplotlib)
 - Jupyter notebook
+
+#### Install Julia
+- mac -> brew install julia
+- ArchLinux -> sudo pacman -S julia
   
 #### Julia Packages
 - Flux
@@ -35,3 +39,10 @@
 1. type 'julia' in terminal
 2. press ']'
 3. type 'add([package_name])'
+
+#### How to start the project
+1. Clone this repository
+2. activate conda environment inside this directory
+3. type 'jupyter notebook'
+
+_Note that CUDA only work with NVIDIA GPU_
