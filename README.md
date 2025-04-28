@@ -1,7 +1,7 @@
 # WELCOME TO OVERHEAD
 ## CNNs to Classify Ores
 <br>
-#### Member (section 3)
+### Member (section 3)
 1. 6688101 Chavis Rittigun (sawqq)
 2. 6688102 Porramin Saengsaksri (ToppoSang)
 3. 6688132 Suppanat Timngarm (NeiwKai)
