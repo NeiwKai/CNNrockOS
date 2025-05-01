@@ -38,7 +38,7 @@
 #### Install Julia Package
 1. type 'julia' in terminal
 2. press ']'
-3. type 'add([package_name])'
+3. type 'add [package_name]'
 
 #### How to start the project
 1. Clone this repository
