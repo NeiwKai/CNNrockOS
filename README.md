@@ -1,3 +1,4 @@
+![ICT Mahidol] (https://online.ict.mahidol.ac.th/pluginfile.php/1/theme_moove/logo/1662104324/MUICT2.png)
 # WELCOME TO OVERHEAD
 
 ## CNNs to Classify Ores
