@@ -16,10 +16,11 @@
 - Jupyter notebook
 
 #### Install Julia
-- mac -> brew install julia
-- ArchLinux -> sudo pacman -S julia
+- mac -> `brew install julia`
+- ArchLinux -> `sudo pacman -S julia`
   
 #### Julia Packages
+- IJulia (for jupyter)
 - Flux
 - Cuda (for NVIDIA)
 - IterTools
