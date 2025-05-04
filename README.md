@@ -16,7 +16,7 @@
 - Jupyter notebook
 
 #### Install Julia
-- mac -> `brew install julia`
+- macOS -> `brew install julia`
 - ArchLinux -> `sudo pacman -S julia`
   
 #### Julia Packages
