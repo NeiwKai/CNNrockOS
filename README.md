@@ -38,14 +38,14 @@
 - Pyplot
 
 #### Install Julia Package
-1. type 'julia' in terminal
-2. press ']'
-3. type 'add [package_name]'
+1. type `julia` in terminal
+2. press `]`
+3. type `add [package_name]`
 
 #### How to start the project
 1. Clone this repository
 2. activate conda environment inside this directory
-3. type 'jupyter notebook'
+3. type `jupyter notebook`
 
 _Note that CUDA only work with NVIDIA GPU_
 
